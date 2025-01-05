@@ -8,7 +8,6 @@
    https://www.linkedin.com/in/mohdtasleemofficial
    LeetCode:
    https://leetcode.com/mohdtasleemofficial
-   CodingNinjas:
-   https://www.codingninjas.com/studio/profile/bd05799c-159f-492d-875e-f0800379b84a
+  
    
   
