@@ -5,7 +5,7 @@
   
 - 📫 How to reach me
 -  Linkedin:
-   https://www.linkedin.com/in/mohdtasleemofficial
+   https://www.linkedin.com/in/engineertasleem
    LeetCode:
    https://leetcode.com/mohdtasleemofficial
   
